@@ -8,7 +8,7 @@ I build reproducible machine learning experiments, implement reinforcement learn
 ## 🔬 Current Focus
 - Reinforcement Learning (MDP, TD(λ), DQN)
 - Computer Vision (CNN-based digit detection)
-- Unsupervised Learning & Dimensionality Reduction
+- Supervised & Unsupervised Learning
 - Optimization & Search Algorithms
 - Reproducible ML systems and experiment pipelines
 
@@ -34,14 +34,22 @@ Comparison of PCA, ICA, RP, LLE combined with clustering methods and NN classifi
 ### **6. Randomized Optimization Algorithms**
 Analysis of Hill Climbing, Simulated Annealing, Genetic Algorithms, and MIMIC.
 
+### **7. Supervised Learning Benchmark (Decision Tree, MLP, SVM, AdaBoost, KNN)**
+Evaluation of five classical classifiers on  
+- **Breast Cancer Wisconsin dataset** (binary classification)  
+- **WiFi Localization dataset** (4-class prediction)  
+
+Includes full cross-dataset analysis, learning curves, and experiment reproducibility.
+
 ---
 
 ## 📈 Tools & Technologies
-- Python, NumPy, PyTorch, OpenCV
-- Scikit-Learn, Matplotlib, Pandas
-- Reinforcement Learning (MDP, TD, DQN)
-- Unsupervised Learning (DR, clustering)
-- Optimization & Search algorithms
+- Python, NumPy, PyTorch, OpenCV  
+- Scikit-Learn, Matplotlib, Pandas  
+- Reinforcement Learning (MDP, TD, DQN)  
+- Supervised Learning (DT, MLP, SVM, AdaBoost, KNN)  
+- Unsupervised Learning (DR, clustering)  
+- Optimization algorithms (SA, GA, MIMIC)  
 - Experiment design & reproducibility
 
 ---
@@ -55,4 +63,3 @@ Analysis of Hill Climbing, Simulated Annealing, Genetic Algorithms, and MIMIC.
 
 ## 📫 Contact
 Feel free to reach out or explore my repositories!
-
